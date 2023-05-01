@@ -40,7 +40,7 @@ class _WelcomeState extends State<Welcome> {
                 height: 9,
               ),
               Text(
-                'Track your meal consumption\nand share healthy recipes\nwith friends',
+                'Track your meal consumption\nand share healthy recipes\nwith your friends',
                 style: GoogleFonts.cabin(
                     fontSize: 13.59, color: Colors.white),
                 textAlign: TextAlign.center,
